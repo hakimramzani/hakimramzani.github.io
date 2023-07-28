@@ -1,0 +1,32 @@
+body {
+    font-family: "San Francisco", "Helvetica Neue", Arial, sans-serif;
+
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+  }
+  .container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+  }
+  h1 {
+    font-size: 36px;
+    color: #333333;
+  }
+  p {
+    font-size: 18px;
+    color: #333333;
+    margin-bottom: 20px;
+  }
+  .contact {
+    font-size: 16px;
+    color: #333333;
+    margin-bottom: 30px;
+  }
+  a {
+    color: #147efb;
+    text-decoration: none;
+  }
